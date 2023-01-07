@@ -1,9 +1,11 @@
 ---
-title: CIS 4210/5210 - Artificial Intelligence - University of Pennsylvania
+title: MPHY 6120 - Data Science and Artificial Intelligence for Medical Physics - University of Pennsylvania
 layout: default
-img: R2D2.png
+#img: R2D2.png
 active_tab: main_page 
 ---
+
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/3oz8xtBx06mcZWoNJm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/aardman-cartoon-train-3oz8xtBx06mcZWoNJm">via GIPHY</a></p>
 
 <!--
 <div class="alert alert-danger" markdown="1">
@@ -11,7 +13,6 @@ active_tab: main_page
 
 For  questions about the waitlist or registration, please contact Lee Dukes - ldukes@seas.upenn.edu.
 </div>
--->
 
 <div class="alert alert-danger" markdown="1">
 You don't need to contact the course instructor to get permissions to register for CIS 4210/5210.  Here are the steps that you should follow:
@@ -32,8 +33,6 @@ For more info about CIS 4210/5210, check out the [course homepage](http://artifi
 If you're hoping to take the course but do not yet have a permit, you should complete the first homework assignment and submit it before the deadline. 
 </div> 
 
-
-
 <div class="alert alert-success" markdown="1">
 After you've added yourself to the waitlist, you'll get assigned a category based on your degree and how many years you have left at Penn.  I have increased the enrollment to allow 400 students in the class, so hopefully there will be enough room for everyone who is interested!
 </div>
@@ -41,7 +40,7 @@ After you've added yourself to the waitlist, you'll get assigned a category base
 <div class="alert alert-info" markdown="1">
 This course is programming intensive, and requires prior Python experience and previous computer sceince courses in data structures and algorithms.  If you'd like to self-assess whether your background is appropriate, you can try out the first few homework assignments prior to the start of the class.
 </div>
-
+-->
 
 
 
@@ -50,7 +49,7 @@ This course is programming intensive, and requires prior Python experience and p
 <div class="alert alert-info" markdown="1">
 The course is done!  Please fill out this [end of semester survey](https://docs.google.com/forms/d/e/1FAIpQLSfYzkk9MD5WOda8WgUgXeDEDy06gUunApho2Me4nYoLXzgufQ/viewform?usp=sf_link) to give us feedback on how to improve the class next year.  If you loved the class, and would like to apply to be a TA, please fill out [this application](https://docs.google.com/forms/d/e/1FAIpQLSeGM7uegYNxf0pY6T2lOhMpUosnVnH3c1woZ10IcFJ18IKN-A/viewform?usp=sf_link).  If you'd like to volunteer for activities  with my research group you can [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScWgXblpIkADdO_K3PQIgm4LAGz0o-XEByPIVJg6_ObxZVAPQ/viewform).
 </div>
-
+-->
 
 <!-- Display an alert about upcoming quizzes -->
 {% capture now %}{{'now' | date: '%s'}}{% endcapture %}
@@ -123,24 +122,24 @@ Course number
 : CIS 4210/5210 - Artificial Intelligence
 
 Prerequeisites
-: CIS 121 (for undergraduates)
-: CIT 594 and CIT 596 (for MCIT students)
-: A data structure and algorithms course, plus substantial programming experience (for everyone)
+: Students should feel confident creating python programs and using git.
+#: CIS 121 (for undergraduates)
+#: CIT 594 and CIT 596 (for MCIT students)
+#: A data structure and algorithms course, plus substantial programming experience (for everyone)
 
 Instructor
-: [Chris Callison-Burch](https://www.cis.upenn.edu/~ccb/)
+: [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774)
 
 Discussion Forum
 : XXX
 
 Time and place
-: In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
-: All lecture materials will be recorded and uploaded for students wishing to participate remotely.  We also have [pre-recorded lectures available for review](modules.html).
-: The first day of class is Tuesday, August 30, 2022.
-: The first day of office hours will be Tuesday, September 6, 2022.
-: The final day of class is Thursday, December 8, 2022.
-* The class meets on Tuesday/Thursday from noon-1:30pm Eastern.
-
+#: In Fall 2022, the course will be in-person in Myerson B1 and broadcast live via Zoom. You are not obligated to attend in person.  Everyone is welcome to watch the videos from home.
+#: All lecture materials will be recorded and uploaded for students wishing to participate remotely.  We also have [pre-recorded lectures available for review](modules.html).
+: The first day of class is Thursday, January , 2023.
+: The first day of office hours will be January 16, 2023.
+: The final day of class is Thursday, May 8, 2023.
+* The class meets on Thursday from 1:30-4:30 pm Eastern.
 
 
 <!--
@@ -160,11 +159,14 @@ Group Office Hours (Recorded)
 
 
 Textbooks
-: Required: __Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig.__ Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition.  You can [buy the textbook on Amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) or from the [UPenn bookstore](https://upenn.bncollege.com/shop/upenn/page/find-textbooks), where you can rent the digital version for $40.  
-: Supplemental: __Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin__.  This textbook is currently [free online](https://web.stanford.edu/~jurafsky/slp3/) while the textbook authors are revising it to write their 3rd edition.  We will use it in the last third of the course. 
-
+: Required: None currently required.
+#__Artificial Intelligence: A Modern Approach (4th edition) by Russel and Norvig.__ Note that the 4th edition adds substantial new material over the 3rd edition, so you should buy the 4th edition.  You can [buy the textbook on Amazon](https://www.amazon.com/Artificial-Intelligence-A-Modern-Approach/dp/0134610997/) or from the [UPenn bookstore](https://upenn.bncollege.com/shop/upenn/page/find-textbooks), where you can rent the digital version for $40.  
+#: Supplemental: __Speech and Language Processing (3rd ed. draft) by Jurafsky and Martin__.  This textbook is currently [free online](https://web.stanford.edu/~jurafsky/slp3/) while the textbook authors are revising it to write their 3rd edition.  We will use it in the last third of the course. 
+: Supplemental: __Machine and Deep Learning in Oncology, Medical Physics and Radiology__ by [Rafe McBeth](https://www.med.upenn.edu/apps/faculty/index.php/g20002680/c1744/p9544774).  This book is currently in progress.  It will be available for free online in 2023.  It will be a good reference for the last third of the course. 
 
 Materials for Extra Credit Assignments
+
+<!-- 
 : In addition to the normal homework assignments, we will have a series of optional extra credit assignments that use programmable toy R2D2s.  These assignments can be done in groups.  Each extra credit homework assignment if worth up to about 1% towards your final grade.  The total amount of extra credit earned will be divided among each student in a group (so students in a large group get less extra credit than students in smaller groups to refelct the effort done).
 : You can borrow one of the R2D2 robots from us.  It must be returned at the end of the semester in good working order, or you will have to pay $100 to replace it. 
 
@@ -195,14 +197,15 @@ Grading
 | 50-65	| D| 
 | below 50	| F |
 
+<!-- 
 Differences between 4210 and 5210
 : There is roughly one homework assignment per week, aside from weeks with exams.  Students enrolled in CIS 4210 may skip one HW assignment, or they may discard their lowest scoring HW assignment.  You do not get late days back on the homework that you discard.  Students enrolled in CIS 5210 must complete all HW assignments and cannot discard their lowest scoring assignment.  **If you are an undergraduate who is considering submatriculating into the master's program then you should enroll in CIS 5210.**
-
+-->
 
 
 Collaboration Policy
 : Quizzes and exams must be completed on your own without help from others.  For quizzes or exams that are open notes or allow a "cheatsheet", you must create the notes yourself and not use anyone else's notes.  Since exams are sometimes administered on different days, you should not discuss the exam with anyone else in the course until after the scores have been released.
-: Unless otherwise noted, you are not allowed to work in groups on the homework assignments. You can discuss homework problems with others (you must explicitly list who you discussed problems with on each homework submission), but   *all code must be your own independent work.*  You are not allowed to upload your code to publicly accessible places (like public github repositories), and you are not allowed to access anyone else's code.  If you discover someone else's code online, please report it to the course staff via a private note on Piazza. 
+: Unless otherwise noted, you are not allowed to work in groups on the homework assignments. You can discuss homework problems with others (you must explicitly list who you discussed problems with on each homework submission), but *all code must be your own independent work.*  You are not allowed to upload your code to publicly accessible places (like public github repositories), and you are not allowed to access anyone else's code.  If you discover someone else's code online, please report it to the course staff via a private note on Piazza. 
 
 
 
